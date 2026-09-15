@@ -23,7 +23,7 @@ team:
       email: "shlokbhatt18@gmail.com"
 
 submission:
-  title: " "Clinical Trial Risk Monitor & Protocol Deviation Detector""                            # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
+  title: "Clinical Trial Risk Monitor & Protocol Deviation Detector"                          # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
 
   problem_statement: >                 # REQUIRED — 1-3 sentences. What problem? Who has it?
   In large clinical trials (5,000+ patient visits across 200+ sites), protocol
@@ -43,7 +43,7 @@ submission:
     behind that score, and generate a CAPA-ready report in one click.
   key_features:                        # REQUIRED — List 3 to 5 specific features you implemented
     - "GCP severity classification — each deviation graded Major/Minor/Administrative per ICH E6(R2), with the exact clause cited for auditability"                               # e.g., "Real-time pipeline anomaly detection using watsonx.ai"
-    - 'GCP severity classification — each deviation graded Major/Minor/Administrative per ICH E6(R2), with the exact clause cited for auditability"
+    - "GCP severity classification — each deviation graded Major/Minor/Administrative per ICH E6(R2), with the exact clause cited for auditability"
     - "Explainable site risk scoring — weighted formula (5×Major + 2×Minor + 1×Admin) ÷ visits ranks all 200+ sites, fully decomposable back into source deviations"
     - "One-click CAPA report generation — deviation summary, root-cause hypothesis, and recommended actions drafted in seconds per flagged site"                               # optional 4th
     - "Interactive risk-ledger dashboard — sortable, filterable, searchable site table with a drill-down drawer per site"                               # optional 5th
