@@ -71,7 +71,7 @@ artifacts:
   setup_guide: "docs/setup-guide.md"
   architecture_doc: "docs/architecture.md"
   demo_video: "https://drive.google.com/file/d/1e5dhF3UCElgIp_EHFIcLHoWzlvH4XB8S/view?usp=sharing"
-  live_demo: "demo/live-demo-url.txt"
+  live_demo: "https://clinicalguard-ai-rho.vercel.app/"
   screenshots: "demo/screenshots/"
   presentation: "presentation/"
   
