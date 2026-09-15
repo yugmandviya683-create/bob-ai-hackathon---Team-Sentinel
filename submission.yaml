@@ -1,6 +1,6 @@
 team:
   name: "Team Sentinel"
-  track: ""AI"
+  track: "AI"
   lead:
     name: "Yug Mandaviya"
     email: "yugmandviya683@gmail.com"
@@ -74,3 +74,4 @@ artifacts:
   live_demo: "demo/live-demo-url.txt"
   screenshots: "demo/screenshots/"
   presentation: "presentation/"
+  
